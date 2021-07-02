@@ -8,3 +8,6 @@
  */
 
 rootProject.name = "wall-mc"
+
+include("builder")
+

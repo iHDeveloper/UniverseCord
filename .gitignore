@@ -1,8 +1,10 @@
-# Idea
+## Idea
 .idea
 
-## Gradle
+## GoGradle
+.gogradle
 
+## Gradle
 .gradle
 **/build/
 !src/**/build/
