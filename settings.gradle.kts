@@ -9,5 +9,5 @@
 
 rootProject.name = "wall-mc"
 
-include("builder")
+include("proxy-plugin")
 

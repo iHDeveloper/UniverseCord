@@ -1,0 +1,4 @@
+name: WallMC-Proxy
+main: me.ihdeveloper.wallmc.plugin.proxy.Main
+version: 0.1
+author: iHDeveloper
